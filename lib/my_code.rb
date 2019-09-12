@@ -15,6 +15,7 @@ end
 def map_to_square(numbers)
   return numbers.map { |nums| nums ** 2 }
 end
+<<<<<<< HEAD
 
 def reduce_to_total(numbers, starting_point = 0)
   sum = 0
@@ -39,3 +40,5 @@ def reduce_to_any_true(source_array)
 end
   
 
+=======
+>>>>>>> 5e8ecda37fff1015bf0227a4db3c7b98f3dc0c7e
